@@ -1,0 +1,4 @@
+"# DeployAngularApp"
+"# DeployAngularApp" 
+"# DeployAngularApp"                                                            git init                                                                                                                git add README.nd                                                                                                       git comit -m "first commit"
+"# DeployAngularApp"                                                            git init                                                                                                                git add README.nd                                                                                                       git comit -m "first commit"                                                                                             git remote add origin https://github.com/karthiga0811/deployAngularApp.git                                              git push -u origin master
